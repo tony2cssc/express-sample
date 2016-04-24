@@ -1,0 +1,14 @@
+{
+  "name": "express-sample",
+  "version": "1.0.0",
+  "description": "It is a sample to learn expressjs framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jijing Guo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
